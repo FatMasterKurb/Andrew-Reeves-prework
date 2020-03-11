@@ -1,0 +1,39 @@
+header{
+    background-color:grey;
+    margin-bottom: 20px;
+    text-align:center;
+}
+
+#left {
+    background-color:blue;
+    float: left;
+    width: 50%;
+    display: inline-block;
+    text-align:center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-right:12.5%;
+}
+
+#right{
+    background-color:red;
+    float: right;
+    width: 25%;
+    display: inline-block;
+    text-align:center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-left:12.5%;
+}
+
+footer {
+    background-color:green;
+    text-align: center;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    
+    
+
+    
+}
