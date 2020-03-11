@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    line-height: 1.5;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(121, 185, 197);
+  }
+
+h4 {
+    font-family: Ink Free;
+}
+
+h1 {
+    font-family: Segoe Print;
+}
+  
+img {
+    max-width: 50%;
+    height: auto;
+}  
+
+.pic1 {
+    position: absolute;
+    bottom:0;
+    right: 15%;
+    width:25%;
+}
+
+.pic2 {
+    position:relative;
+    top: -50px;
+    left: 25px;
+    width:25%;
+}
